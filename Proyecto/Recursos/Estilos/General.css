@@ -7,9 +7,11 @@
     outline        : none;
     font-family    : 'Baloo Bhaina 2', cursive;
     line-height    : 1;
+    color: white;
 }
 
 body {
+    background: linear-gradient(#21C08B, #AB88FF);
     width     : 100%;
     min-height: 100vh;
 }

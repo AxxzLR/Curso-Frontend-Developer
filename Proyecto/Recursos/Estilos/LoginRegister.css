@@ -1,9 +1,4 @@
-* {
-    color: white;
-}
-
 body {
-    background: linear-gradient(#21C08B, #AB88FF);
     height    : 100vh;
     max-height: 100vh;
 }
